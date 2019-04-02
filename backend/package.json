@@ -1,0 +1,16 @@
+{
+  "name": "x",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "author": "Taarush Vemulapalli",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/translate": "^2.1.4",
+    "@google/maps": "^0.5.5",
+    "express": "^4.16.4",
+    "html-to-text": "^5.0.0",
+    "twilio": "^3.30.0",
+    "wikijs": "^4.13.0",
+    "wolfram-alpha-api": "https://products.wolframalpha.com/api/libraries/javascript/wolfram-alpha-api-1.0.0-rc.1.tgz"
+  }
+}
