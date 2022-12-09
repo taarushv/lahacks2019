@@ -7,7 +7,7 @@
   "dependencies": {
     "@google-cloud/translate": "^2.1.4",
     "@google/maps": "^0.5.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "html-to-text": "^5.0.0",
     "twilio": "^3.30.0",
     "wikijs": "^4.13.0",
